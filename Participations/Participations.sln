@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participations", "Participations\Participations.csproj", "{B2FDFBE1-4BC9-4A1F-9317-BB71B3351741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulation", "String Manipulation\String Manipulation.csproj", "{48394C77-F036-42CA-B3B0-A87569964000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B2FDFBE1-4BC9-4A1F-9317-BB71B3351741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2FDFBE1-4BC9-4A1F-9317-BB71B3351741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FDFBE1-4BC9-4A1F-9317-BB71B3351741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48394C77-F036-42CA-B3B0-A87569964000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48394C77-F036-42CA-B3B0-A87569964000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48394C77-F036-42CA-B3B0-A87569964000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48394C77-F036-42CA-B3B0-A87569964000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
