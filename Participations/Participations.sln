@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participations", "Participa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulation", "String Manipulation\String Manipulation.csproj", "{48394C77-F036-42CA-B3B0-A87569964000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March2 Participation", "March2 Participation\March2 Participation.csproj", "{9357AE30-78CC-41A3-8A36-72DAF9A1D3B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{48394C77-F036-42CA-B3B0-A87569964000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48394C77-F036-42CA-B3B0-A87569964000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48394C77-F036-42CA-B3B0-A87569964000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9357AE30-78CC-41A3-8A36-72DAF9A1D3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9357AE30-78CC-41A3-8A36-72DAF9A1D3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9357AE30-78CC-41A3-8A36-72DAF9A1D3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9357AE30-78CC-41A3-8A36-72DAF9A1D3B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
