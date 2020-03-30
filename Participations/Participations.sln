@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 9 Participation", "Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 11 Participations", "March 11 Participations\March 11 Participations.csproj", "{3D00DF36-8A0B-4464-9F7C-BCF9661FDB60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 23 Participation", "ConsoleApp1\March 23 Participation.csproj", "{58F9A9E0-3764-42EF-88F4-CDE7DBFAEF81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "March 23 Participation", "ConsoleApp1\March 23 Participation.csproj", "{58F9A9E0-3764-42EF-88F4-CDE7DBFAEF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 30 Part", "March 30 Part\March 30 Part.csproj", "{EAC05D16-57F4-4169-86A1-FDD25FB7A573}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{58F9A9E0-3764-42EF-88F4-CDE7DBFAEF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58F9A9E0-3764-42EF-88F4-CDE7DBFAEF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58F9A9E0-3764-42EF-88F4-CDE7DBFAEF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC05D16-57F4-4169-86A1-FDD25FB7A573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC05D16-57F4-4169-86A1-FDD25FB7A573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC05D16-57F4-4169-86A1-FDD25FB7A573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC05D16-57F4-4169-86A1-FDD25FB7A573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
