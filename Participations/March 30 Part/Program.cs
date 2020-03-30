@@ -13,7 +13,18 @@ namespace March_30_Part
             TB1.BackColor = ConsoleColor.Yellow;
             TB1.ForeColor = ConsoleColor.Red;
 
-            
+
+            TB1.DisplayText();
+
+            TextBox TB2 = new TextBox();
+            TB2.Padding = 5;
+            TB2.Text = "This is the second text box.";
+            TB2.BackColor = ConsoleColor.Blue;
+            TB2.ForeColor = ConsoleColor.DarkGreen;
+
+            TB2.DisplayText();
+
+
             Console.ReadKey();
         }
        

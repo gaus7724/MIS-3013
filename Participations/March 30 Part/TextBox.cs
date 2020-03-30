@@ -16,10 +16,10 @@ namespace March_30_Part
 
         public TextBox()
         {
-            Padding = 1;
+            Padding = 0;
             BackColor = ConsoleColor.Black;
             ForeColor = ConsoleColor.White;
-            Text = "sample text";
+            Text = "";
         }
 
         public void DisplayText()
@@ -33,7 +33,7 @@ namespace March_30_Part
             {
                 space = space + " ";
             }
-            Console.WriteLine(Text);
+            Console.WriteLine(space+Text+space);
         }
 
     }
