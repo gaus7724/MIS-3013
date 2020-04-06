@@ -7,6 +7,7 @@ namespace TaxRate
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Please enter your first and last name.");
             string userName = Console.ReadLine();
 
