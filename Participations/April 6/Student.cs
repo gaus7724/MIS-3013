@@ -16,17 +16,41 @@ namespace April_6
             FirstName = "";
             LastName = "";
         }
+        double sum;
         public double CalculateGPA()
         {
-           
-            double sum = 0;
+            
+            double numGrade;
             foreach (var grade in CourseGrades)
             {
-                sum = sum + Convert.ToDouble(grade);
+                if (grade == "A")
+                {
+                    numGrade = 4;
+                }
+                if (grade == "B")
+                {
+                    numGrade = 3;
+                }
+                if (grade == "C")
+                {
+                    numGrade = 2;
+                }
+                if (grade == "D")
+                {
+                    numGrade = 1;
+                }
+                else
+                {
+                    numGrade = 0;
+                }
+                 
+                sum = sum + numGrade;
             }
-            Convert.ToDouble(CourseGrades);
-            double average = sum / CourseGrades.Count;
-            Console.WriteLine($"The average of your course grades is {average}");
+            
+            double GPA = sum / CourseGrades.Count;
+            Console.WriteLine($"Your GPA for {CourseNames} is {GPA}.");
+            return GPA;
+            
 
         }
         
