@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "April 1", "April 1\April 1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "April 6", "April 6\April 6.csproj", "{3163EE1C-F049-4EC0-A868-1A43E67211B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "April 8", "April 8\April 8.csproj", "{207F0AC5-E67F-45E9-8763-892EBCD032C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "April 8", "April 8\April 8.csproj", "{207F0AC5-E67F-45E9-8763-892EBCD032C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFParticipation", "WPFParticipation\WPFParticipation.csproj", "{3F8B13A1-6D67-48C2-97E6-CA8F49E832CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{207F0AC5-E67F-45E9-8763-892EBCD032C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{207F0AC5-E67F-45E9-8763-892EBCD032C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{207F0AC5-E67F-45E9-8763-892EBCD032C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8B13A1-6D67-48C2-97E6-CA8F49E832CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8B13A1-6D67-48C2-97E6-CA8F49E832CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8B13A1-6D67-48C2-97E6-CA8F49E832CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8B13A1-6D67-48C2-97E6-CA8F49E832CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
